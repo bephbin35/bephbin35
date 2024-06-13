@@ -1,5 +1,5 @@
 ## Hi there 👋
-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
+
 <!--
 **bephbin35/bephbin35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
